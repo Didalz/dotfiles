@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = diegoalejandrolopezzapata@gmail.com
+	name = diego lopez
